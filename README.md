@@ -36,11 +36,11 @@ After enabling GitHub Pages in your repository settings, your site will be avail
 
 ## 📁 Folder Structure
 
-obys-agency-clone/
-│
-├── index.html
-├── style.css
-├── script.js
-└── assets/
-├── images/
-└── fonts/
+obys-agency-clone/ </br>
+│ </br>
+├── index.html </br>
+├── style.css </br>
+├── script.js </br>
+└── assets/ </br>
+├── images/ </br>
+└── fonts/</br>
