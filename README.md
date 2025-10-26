@@ -41,6 +41,6 @@ obys-agency-clone/ </br>
 ├── index.html </br>
 ├── style.css </br>
 ├── script.js </br>
-└── assets/ </br>
+├── assets/ </br>
 ├── images/ </br>
 └── fonts/</br>
